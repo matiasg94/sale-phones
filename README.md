@@ -11,7 +11,8 @@
 
 ### La tipógrafía a utilizar seran dos###
 [Header](https://fonts.google.com/specimen/Handjet)
-[Texto](https://fonts.google.com/specimen/Fira+Sans)
+
+[Text](https://fonts.google.com/specimen/Fira+Sans)
 
 ### Paleta de colores: (https://color.adobe.com/es/mythemes?viewTheme)
 
