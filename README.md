@@ -9,9 +9,11 @@
 
 ### *El público objetivo ronda entre los 12 años y los 70 años*
 
-### La tipógrafía a utilizar será [Handjet](https://fonts.google.com/specimen/Handjet)
+### La tipógrafía a utilizar seran dos###
+[Header](https://fonts.google.com/specimen/Handjet)
+[Texto](https://fonts.google.com/specimen/Fira+Sans)
 
 ### Paleta de colores: (https://color.adobe.com/es/mythemes?viewTheme)
 
-### Logo (file:///C:/Users/Matias/Desktop/logo.jpg)
- 
+### Logo (C:\Users\Matias\Desktop\logo.jpg)
+
